@@ -16,6 +16,7 @@
 - [查找整数](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/FindInteger.java)
 - [分解质因数](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/DecompositionofprimeNumbers.java)
 - [矩形面积交](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/AreaIntersection.java) 
+- [（第七届）四平方和](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/FourSquareSum.java)
 
 ##八大算法排序
 - [冒泡排序](https://github.com/Azcy/Algorithm/blob/master/SortingAlgorithm/BubbleSort.java)
