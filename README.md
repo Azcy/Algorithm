@@ -18,7 +18,9 @@
 - [查找整数](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/FindInteger.java)
 - [分解质因数](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/DecompositionofprimeNumbers.java)
 - [矩形面积交](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/AreaIntersection.java) 
+
 ###第六届蓝桥杯
+
 - [2.立方变自身](https://github.com/Azcy/Algorithm/blob/master/TheSixBlueBridge/Cubic.java)
 - [3.三羊献瑞](https://github.com/Azcy/Algorithm/blob/master/TheSixBlueBridge/CalculateNum.java)
 - [4.循环节长度](https://github.com/Azcy/Algorithm/blob/master/TheSixBlueBridge/CircularLength.java)
