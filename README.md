@@ -1,5 +1,7 @@
 #算法设计
 ##蓝桥杯
+###基础篇
+
 - [01串](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/ZeroOneString.java)
 - [杨辉三角](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/YhTriangle.java)
 - [时间转换](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/TimeConversion.java)
@@ -16,6 +18,17 @@
 - [查找整数](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/FindInteger.java)
 - [分解质因数](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/DecompositionofprimeNumbers.java)
 - [矩形面积交](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/AreaIntersection.java) 
+###第六届蓝桥杯
+- [2.立方变自身](https://github.com/Azcy/Algorithm/blob/master/TheSixBlueBridge/Cubic.java)
+- [3.三羊献瑞](https://github.com/Azcy/Algorithm/blob/master/TheSixBlueBridge/CalculateNum.java)
+- [4.循环节长度](https://github.com/Azcy/Algorithm/blob/master/TheSixBlueBridge/CircularLength.java)
+- [5.九数组分数](https://github.com/Azcy/Algorithm/blob/master/TheSixBlueBridge/NineArrayScores.java)
+- [6.加法变乘法](https://github.com/Azcy/Algorithm/blob/master/TheSixBlueBridge/AdditiveToMultiplication.java)
+- [7.牌型种数](https://github.com/Azcy/Algorithm/blob/master/TheSixBlueBridge/BrandInteger.java)
+- [8.饮料换购](https://github.com/Azcy/Algorithm/blob/master/TheSixBlueBridge/BeverageExchange.java)
+
+
+###第七届蓝桥杯
 - [（第七届）四平方和](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/FourSquareSum.java)
 
 ##八大算法排序
