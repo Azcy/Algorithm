@@ -1,6 +1,6 @@
-#算法设计
-##蓝桥杯
-###基础篇
+# 算法设计
+## 蓝桥杯
+### 基础篇
 
 - [01串](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/ZeroOneString.java)
 - [杨辉三角](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/YhTriangle.java)
@@ -19,7 +19,7 @@
 - [分解质因数](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/DecompositionofprimeNumbers.java)
 - [矩形面积交](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/AreaIntersection.java) 
 
-###第六届蓝桥杯
+### 第六届蓝桥杯
 
 - [2.立方变自身](https://github.com/Azcy/Algorithm/blob/master/TheSixBlueBridge/Cubic.java)
 - [3.三羊献瑞](https://github.com/Azcy/Algorithm/blob/master/TheSixBlueBridge/CalculateNum.java)
@@ -30,10 +30,11 @@
 - [8.饮料换购](https://github.com/Azcy/Algorithm/blob/master/TheSixBlueBridge/BeverageExchange.java)
 
 
-###第七届蓝桥杯
+### 第七届蓝桥杯
+
 - [（第七届）四平方和](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/FourSquareSum.java)
 
-##八大算法排序
+## 八大算法排序
 - [冒泡排序](https://github.com/Azcy/Algorithm/blob/master/SortingAlgorithm/BubbleSort.java)
 - [插入排序](https://github.com/Azcy/Algorithm/blob/master/SortingAlgorithm/InsertSort.java)
 - [选择排序](https://github.com/Azcy/Algorithm/blob/master/SortingAlgorithm/SelectSort.java)
