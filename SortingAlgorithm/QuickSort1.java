@@ -53,9 +53,6 @@ public static int Partition(int arr[],int first,int end)
 			pivot=Partition(arr,first,end); //取得第一个轴值得位置
 			quicksort(arr,first,pivot-1);//划分对左侧进行快排
 			quicksort(arr,pivot+1,end);//对右侧进行快排
-			}
-		
-		
-		
-		}
+		}			
+  }
 	}
