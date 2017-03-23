@@ -1,0 +1,10 @@
+# 第七届JavaC组
+- [1、有奖猜谜](https://github.com/Azcy/Algorithm/blob/master/TheSevenBridge/First.java)
+- [2、煤球数目](https://github.com/Azcy/Algorithm/blob/master/TheSevenBridge/Second.java)
+- [3、平方怪圈](https://github.com/Azcy/Algorithm/blob/master/TheSevenBridge/Third.java)
+- [4、骰子游戏](https://github.com/Azcy/Algorithm/blob/master/TheSevenBridge/Fourth.java)
+- [5、分小组](https://github.com/Azcy/Algorithm/blob/master/TheSevenBridge/Fifth.java)
+- [6、凑算式](https://github.com/Azcy/Algorithm/blob/master/TheSevenBridge/Sixth.java)
+- [7、搭积木](https://github.com/Azcy/Algorithm/blob/master/TheSevenBridge/Seven.java)
+- [8、冰雹数](https://github.com/Azcy/Algorithm/blob/master/TheSevenBridge/Eight.java)
+- [9、四平方和](https://github.com/Azcy/Algorithm/blob/master/TheSevenBridge/Night.java)
