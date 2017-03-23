@@ -6,8 +6,8 @@
 
 
 
-- [第七届蓝桥杯](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/README/TheSeven.md)
-
+- [第七届蓝桥杯B组](https://github.com/Azcy/Algorithm/blob/master/BlueBridge/README/TheSeven.md)
+- [第七届蓝桥杯C组](https://github.com/Azcy/Algorithm/blob/master/TheSevenBridge/TheSevenBridge.md)
 
 
 ## 八大算法排序
