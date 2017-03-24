@@ -10,6 +10,9 @@
 - [第七届蓝桥杯C组](https://github.com/Azcy/Algorithm/blob/master/TheSevenBridge/TheSevenBridge.md)
 
 
+- [南阳oj算法题](https://github.com/Azcy/Algorithm/blob/master/%E5%8D%97%E9%98%B3OJ/NyOj.md)
+
+
 ## 八大算法排序
 - [1、交换排序------冒泡排序（Bubble Sort）](https://github.com/Azcy/Algorithm/blob/master/SortingAlgorithm/README/BubbleSort.md)
 - [2、交换排序------快速排序（Quick Sort）](https://github.com/Azcy/Algorithm/blob/master/SortingAlgorithm/README/QuickSort.md)
