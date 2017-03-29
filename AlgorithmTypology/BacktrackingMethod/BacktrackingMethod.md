@@ -44,3 +44,12 @@
 (5)从结点7回溯到结点6，在结点6选择右子树到达叶子结点8，而结点8不需要容量，构成问题的一个可行解(1,0,0)，背包获得价值20.
 
 ![](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/image/01%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%E7%9A%84%E6%90%9C%E7%B4%A2%E7%A9%BA%E9%97%B4.png)
+
+## 常见问题
+
+###[ 1、0/1背包问题](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/md/KnapsackProblem.md)
+
+### [2、素环数问题](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/md/PrimeRingProblem.md)
+
+
+### [3、图着色问题](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/md/GraphColouring.md)
