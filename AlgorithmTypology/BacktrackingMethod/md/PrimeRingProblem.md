@@ -11,7 +11,10 @@
 
 (3)最后一个填写到素数环中的整数与第一个填写的整数之和是一个素数。
 
-## 3.代码实现
+## 3.算法分析
+设要填写1~n共n个整数，由于每个位置可以填写的情况有n种，隐藏，素数环问题的解空间树是一棵完全n叉树，且树的深度为n+1，因此最坏情况下的时间性能是O(n^n);
+
+## 4.代码实现
 	private void PrimeRing(int n)
 	{	
 		int i,k;
@@ -90,4 +93,5 @@
 		return 1;
 	}
 
-[### 详细代码](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/java/PrimeRingProblem.java)
+## [ 详细代码请点击](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/java/PrimeRingProblem.java)
+
