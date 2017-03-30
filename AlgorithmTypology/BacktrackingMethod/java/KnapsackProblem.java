@@ -11,7 +11,7 @@ public class KnapsackProblem
 	int KpCapacity;
 	/**
 	0/1背包问题的方法
-	@ param i 为装进背包物品的个数
+	@ param i 为当前装进背包物品的个数
 	@ param Kplvalue 背包内物品的价值
 	@ param KpWeight 背包内物品的重量 
 	@ param j  表示每个物品的放入与不放入的状态。
@@ -19,6 +19,7 @@ public class KnapsackProblem
 	public  void Knapsack(int i,int Kplvalue,int KpWeight)
 	{
 		int j;
+		//判断是否所有物品都拿了
 		if(i>=weight.length)
 		{
 			//如果i已经大于所有物品的个数，表示已经拿完时，进行输出操作。
@@ -26,8 +27,9 @@ public class KnapsackProblem
 				{
 					System.out.print(feasible[m]+" ");
 				}
-				System.out.print("价值"+Kplvalue);	
+				System.out.print("背包内的重量"+KpWeight+","+"价值"+Kplvalue);	
 				System.out.println();	
+				return ;
 		}else
 		{
 			//用j来表示，物品的放入与不放入
@@ -48,10 +50,8 @@ public class KnapsackProblem
 					Kplvalue-=feasible[i]*value[i];
 					
 				}
-			
 			}
 		}
-		
 	}
 
 	
@@ -60,6 +60,6 @@ public class KnapsackProblem
 	
 	public static void main(String[] args)
 	{
-		new KnapsackProblem().Knapsack(1,0,0);
+		new KnapsackProblem().Knapsack(0,0,0);
 	}
 }
