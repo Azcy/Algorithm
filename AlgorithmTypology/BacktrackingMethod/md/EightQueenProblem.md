@@ -100,3 +100,6 @@
 	}
 
 ###  [详细代码请点击此处](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/java/EightQueenPromble.java)
+
+----------
+3/30/2017 5:31:29 PM 
