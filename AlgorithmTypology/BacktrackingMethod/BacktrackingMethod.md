@@ -54,6 +54,8 @@
 
 ### [3、图着色问题](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/md/GraphColouring.md)
 
-###  [4.哈密顿回路问题](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/md/HamiltonCircuitProblem.md)
+###  [4、哈密顿回路问题](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/md/HamiltonCircuitProblem.md)
 
-###  [5.八皇后问题](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/md/EightQueenProblem.md)
+###  [5、八皇后问题](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/md/EightQueenProblem.md)
+
+###  [6、批处理作业调度问题](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/md/BatchJobSchedulingProblem.md)
