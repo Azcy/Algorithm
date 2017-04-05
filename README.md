@@ -22,5 +22,5 @@
 - [6、选择排序------堆排序（Heap Sort）](https://github.com/Azcy/Algorithm/blob/master/SortingAlgorithm/README/HeapSort.md)
 - [7、归并排序（Merge Sort）](https://github.com/Azcy/Algorithm/blob/master/SortingAlgorithm/README/MergeSort.md)
 
-## Java基础知识
-- [内部类](https://github.com/Azcy/JavaBasic/blob/master/README.md)
+## 算法分类
+- [1、回溯法](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/BacktrackingMethod.md)
