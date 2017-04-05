@@ -19,7 +19,7 @@
 	
 		for(int i=0;i<arr.length-1;i++)
 		{
-			for(int j=1;j<arr.length-i-1;j++)
+			for(int j=0;j<arr.length-i-1;j++)
 			{
 				//将大的跟往后面的进行交换
 				if(arr[j]>arr[j+1])
