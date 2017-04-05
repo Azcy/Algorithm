@@ -11,7 +11,7 @@ public class BubbleSort
 {
 	public static void main(String[] args)
 	{
-		int arr[]=new int[]{1,8,6,7,2,15,80,60};
+		int arr[]=new int[]{8,1,6,7,2,15,80,60};
 		new BubbleSort().bubblesort(arr);//如果bubblesort方法为非静态的时候，需要创建个对象来调用，如果bubblesort为静态方法（类方法）的时候可以直接类名.方法名，如果在当前类，则可以省略掉类名.
 		for(int number:arr)
 		{
@@ -30,7 +30,7 @@ public class BubbleSort
 	
 		for(int i=0;i<arr.length-1;i++)
 		{
-			for(int j=1;j<arr.length-i-1;j++)
+			for(int j=0;j<arr.length-i-1;j++)
 			{
 				//将大的跟往后面的进行交换
 				if(arr[j]>arr[j+1])
