@@ -24,3 +24,10 @@
 
 ## 算法分类
 - [1、回溯法](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BacktrackingMethod/BacktrackingMethod.md)
+-  [2、分支限界法](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BranchBoundingMethod/BranchBoundingMechod.md)
+-  [3、蛮力法](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/BruteForceMethod/BruteForceMethod.md)
+-  [4、分治法](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/Divide-And-ConquerMethod/DivideAndConquerMethod.md)
+-  [5、动态规划法（DP）](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/DynamicProgrammingMethod/DynamicProgrammingMethod.md)
+-  [6、贪心法](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/GreedyMethod/GreedyMethod.md)
+-  [7、减治法](https://github.com/Azcy/Algorithm/blob/master/AlgorithmTypology/ReduceAndConquerMethod/ReduceAndConquerMethod.md)
+
